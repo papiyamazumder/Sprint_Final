@@ -1,0 +1,84 @@
+<div class="container">
+    <h2>ADD EMPLOYEE <i class="fa fa-user icon"></i></h2>
+    <form>
+      <fieldset>
+        <div class="input-field">
+          <label>Emp Id </label>
+          <input type="text" class="inputs" [(ngModel)]="empData.empID" name="empID" placeholder="(Emp_ID cannot start with zero and max-length is 6)"required>
+        </div>
+        <div class="input-field">
+          <label>First Name</label>
+          <input type="text" class="inputs" [(ngModel)]="empData.empFirstName" name="empFirstName" placeholder="Required" required>
+        </div>
+        <div class="input-field">
+          <label>Last Name</label>
+          <input type="text" class="inputs" [(ngModel)]="empData.empLastName" name="empLastName" required>
+        </div>
+        <div class="input-field">
+          <label>Date of Birth</label>
+          <input type="date" class="inputs" name="empDateOfBirth"[(ngModel)]="empData.empDateOfBirth">
+        </div>
+        <div class="input-field">
+          <label>Date of Joining</label>
+          <input type="date" class="inputs" name="dateOfJoining" [(ngModel)]="empData.dateOfJoining">
+        </div>
+        <div class="input-field">
+          <label>Department Id</label>
+          <select class="inputs" name="empDeptID" [(ngModel)]="empData.empDeptID">
+            <option *ngFor="let department of depts" [value]="department.deptID">{{ department.deptID}}</option>
+          </select>
+        </div>        
+        <div class="input-field">
+          <label class="grade">Grade</label>
+          <select class="inputs" [(ngModel)]="empData.empGrade" name="empGrade">
+            <option *ngFor="let option of grades" [value]="option.gradeCode">{{ option.gradeCode }}</option>
+          </select>
+        </div>
+        
+        <div class="input-field">
+          <label class="designation">Designation</label>
+          <select  id="" class="inputs" [(ngModel)]="empData.empDesignation" name="empDesignation">
+            <option value="Associate">Associate</option>
+          <option value="Executive">Executive</option>
+          <option value="Manager">Manager</option>
+          <option value="Analyst">Analyst</option>
+          <option value="Backend Developer">Backend Developer</option>
+          <option value="Frontend Developer">Frontend Developer</option>
+          <option value="Full stack Developer">Full stack Developer</option>
+          </select>
+        </div>
+        <div class="input-field">
+          <label>Basic Salary</label>
+          <input type="text" class="inputs"  [(ngModel)]="empData.empBasic" name="empBasic">
+        </div>
+        <div class="input-field">
+          <label class="grade">Gender</label>
+          <select  id="" class="inputs" [(ngModel)]="empData.empGender" name="empGender">
+            <option value="M">Male</option>
+            <option value="F">Female</option>
+          </select>
+        </div>
+        <div class="input-field">
+          <label class="grade">Marital Status</label>
+          <select  id="" class="inputs" [(ngModel)]="empData.empMaritalStatus" name="empMaritalStatus">
+            <option value="M">Married</option>
+            <option value="U">Unmarried</option>
+          </select>
+        </div>
+        
+
+        <div class="input-field-home">
+          <label class="message">Home Address <i class="fa-solid fa-address-book icon textarea-icon"></i></label>
+          <textarea class="textarea" name="empHomeAddress"[(ngModel)]="empData.empHomeAddress"></textarea>
+        </div>
+        <div class="input-field">
+          <label>Contact Number</label>
+          <input type="tel" id="phone" name="empContactNum" [(ngModel)]="empData.empContactNum" placeholder="+91 87XXXXXXXX" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}">
+        </div>
+
+        <input type="button" (click) = "addEmployees()" value="Save" class="btn btn-primary save">
+        <input type="button"(click) = "reset()" value="Reset" class="btn btn-secondary reset">
+      </fieldset>
+    </form>
+  </div>
+  

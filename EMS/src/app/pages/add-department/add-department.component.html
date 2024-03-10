@@ -1,0 +1,18 @@
+<div class="container">
+    <h2>ADD DEPARTMENT <i class="fa fa-user icon"></i></h2>
+    <form action="">
+      <fieldset>
+        <div class="input-field">
+          <label>Dept Id</label>
+          <input type="text" class="inputs" [(ngModel)]="deptData.deptID" name="deptID" required>
+        </div>
+        <div class="input-field">
+          <label>Dept Name</label>
+          <input type="text" class="inputs" [(ngModel)]="deptData.deptName" name="deptName" required>
+        </div>
+        <input type="button" (click) = "addDepartments()" value="Save" class="btn btn-primary save">
+        <input type="button" (click) = "reset()" value="Reset" class="btn btn-secondary reset">
+      </fieldset>
+    </form>
+  </div>
+ 

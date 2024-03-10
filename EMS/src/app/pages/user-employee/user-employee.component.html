@@ -1,0 +1,89 @@
+<div class="my-navbar">
+  <!-- <label id="Search">Select an option</label> -->
+  <select [(ngModel)]="searchKeyword">
+    <option value="">--Search By--</option>
+    <option value="EmpID">Emp Id</option>
+    <option value="EmpFirstName">First Name</option>
+    <option value="EmpLastName">Last Name</option>
+    <option value="EmpDeptID">Department Id</option>
+    <option value="EmpGrade">Grade</option>
+    <option value="EmpDesignation">Designation</option>
+    <option value="EmpGender">Gender</option>
+    <option value="EmpMaritalStatus">Marital Status</option>
+  </select>
+  <input
+    type="text"
+    placeholder="Search..."
+    [(ngModel)]="searchValue"
+    name="searchValue"
+  />
+  <a class="btn" (click)="goToAddEmployee()" routerLink="add-emp"
+    >Add Employee</a
+  >
+  <button class="btn" (click)="exportemployees()">Export</button>
+  <button class="btn" (click)="searchemployees()">Search</button>
+</div>
+
+<div class="container">
+  <h2>Employee List</h2>
+  <div class="table-responsive">
+    <div class="table-container">
+      <table class="responsive-table" #excelTable id="excelTableId">
+        <thead>
+          <tr class="table-header">
+            <th class="col col-1">Emp Id</th>
+            <th class="col col-2">First Name</th>
+            <th class="col col-3">Last Name</th>
+            <th class="col col-4">Date of Birth</th>
+            <th class="col col-5">Date of Joining</th>
+            <th class="col col-5">Department Id</th>
+            <th class="col col-5">Grade</th>
+            <th class="col col-5">Designation</th>
+            <th class="col col-5">Basic Salary</th>
+            <th class="col col-5">Gender</th>
+            <th class="col col-5">Marital Status</th>
+            <th class="col col-5">Home Address</th>
+            <th class="col col-5">Contact Num</th>
+            <th class="col col-5 col-actions1">Edit</th>
+            <th class="col col-5 col-actions1">Delete</th>
+          </tr>
+        </thead>
+        <tbody *ngFor="let emp of emplist">
+          <tr class="table-row">
+            <td class="col">{{ emp.empID }}</td>
+            <td class="col">{{ emp.empFirstName }}</td>
+            <td class="col">{{ emp.empLastName }}</td>
+            <td class="col">{{ emp.empDateOfBirth | date }}</td>
+            <td class="col">{{ emp.dateOfJoining | date }}</td>
+            <td class="col">{{ emp.empDeptID }}</td>
+            <td class="col">{{ emp.empGrade }}</td>
+            <td class="col">{{ emp.empDesignation }}</td>
+            <td class="col">{{ emp.empBasic }}</td>
+            <td class="col">{{ emp.empGender }}</td>
+            <td class="col">{{ emp.empMaritalStatus }}</td>
+            <td class="col">{{ emp.empHomeAddress }}</td>
+            <td class="col">{{ emp.empContactNum }}</td>
+            <td class="col col-actions1">
+              <button
+                class="btn btn-primary edit-btn"
+                (click)="goToEditEmployee(emp.empID)"
+              >
+                <i class="fa-solid fa-pencil"></i>
+              </button>
+            </td>
+            <td class="col col-actions2">
+              <button
+                class="btn btn-danger delete-btn"
+                (click)="delete(emp.empID)"
+              >
+                <i class="fa-solid fa-trash"></i>
+              </button>
+            </td>
+          </tr>
+
+          <!-- Add more rows as needed -->
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>

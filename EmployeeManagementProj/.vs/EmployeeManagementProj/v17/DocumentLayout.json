@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\employeemanagementproj\\controllers\\usermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|solutionrelative:employeemanagementproj\\controllers\\usermastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\employeemanagementproj\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|solutionrelative:employeemanagementproj\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\data\\repository\\usermasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|solutionrelative:data\\repository\\usermasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\data\\migrations\\20240310054931_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|solutionrelative:data\\migrations\\20240310054931_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\employeemanagementproj\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|solutionrelative:employeemanagementproj\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\employeemanagementproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|solutionrelative:employeemanagementproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\data\\repository\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|solutionrelative:data\\repository\\employeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\data\\repository\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|solutionrelative:data\\repository\\iemployeerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA238C6-2C17-4666-80E8-5E0356478137}|Business\\Business.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\business\\services\\grademasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA238C6-2C17-4666-80E8-5E0356478137}|Business\\Business.csproj|solutionrelative:business\\services\\grademasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\employeemanagementproj\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|solutionrelative:employeemanagementproj\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA238C6-2C17-4666-80E8-5E0356478137}|Business\\Business.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\business\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA238C6-2C17-4666-80E8-5E0356478137}|Business\\Business.csproj|solutionrelative:business\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CFD07F-894E-42F4-9A82-6220392A9E1A}|Entity\\Entity.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CFD07F-894E-42F4-9A82-6220392A9E1A}|Entity\\Entity.csproj|solutionrelative:entity\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\data\\repository\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|solutionrelative:data\\repository\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\employeemanagementproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|solutionrelative:employeemanagementproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\employeemanagementproj\\controllers\\grademastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA06A9F7-6452-4B38-9C30-B55B97009E50}|EmployeeManagementProj\\EmployeeManagementProj.csproj|solutionrelative:employeemanagementproj\\controllers\\grademastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\data\\repository\\grademasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|solutionrelative:data\\repository\\grademasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CFD07F-894E-42F4-9A82-6220392A9E1A}|Entity\\Entity.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\entity\\grademaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CFD07F-894E-42F4-9A82-6220392A9E1A}|Entity\\Entity.csproj|solutionrelative:entity\\grademaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CFD07F-894E-42F4-9A82-6220392A9E1A}|Entity\\Entity.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\entity\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CFD07F-894E-42F4-9A82-6220392A9E1A}|Entity\\Entity.csproj|solutionrelative:entity\\usermaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\data\\repository\\igrademasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|solutionrelative:data\\repository\\igrademasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27CFD07F-894E-42F4-9A82-6220392A9E1A}|Entity\\Entity.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27CFD07F-894E-42F4-9A82-6220392A9E1A}|Entity\\Entity.csproj|solutionrelative:entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\data\\repository\\iusermasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|solutionrelative:data\\repository\\iusermasterrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA238C6-2C17-4666-80E8-5E0356478137}|Business\\Business.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\business\\services\\usermasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA238C6-2C17-4666-80E8-5E0356478137}|Business\\Business.csproj|solutionrelative:business\\services\\usermasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\data\\repository\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|solutionrelative:data\\repository\\idepartmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|d:\\ems_dipannita\\2\\final\\employeemanagementproj\\data\\datacontext\\emsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FF764A-6F63-4414-8936-2A0A32CD50BA}|Data\\Data.csproj|solutionrelative:data\\datacontext\\emsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementProj\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EmployeeManagementProj\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:07:52.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240310054931_InitialMigration.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\Migrations\\20240310054931_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20240310054931_InitialMigration.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\Migrations\\20240310054931_InitialMigration.cs",
+              "RelativeToolTip": "Data\\Migrations\\20240310054931_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:49:31.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementProj\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "EmployeeManagementProj\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAUwDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementProj\\Program.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementProj\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepo.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\EmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Data\\REPOSITORY\\EmployeeRepo.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\EmployeeRepo.cs",
+              "RelativeToolTip": "Data\\REPOSITORY\\EmployeeRepo.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAqwHAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmployeeRepo.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\IEmployeeRepo.cs",
+              "RelativeDocumentMoniker": "Data\\REPOSITORY\\IEmployeeRepo.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\IEmployeeRepo.cs",
+              "RelativeToolTip": "Data\\REPOSITORY\\IEmployeeRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GradeMasterService.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Business\\Services\\GradeMasterService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\GradeMasterService.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Business\\Services\\GradeMasterService.cs",
+              "RelativeToolTip": "Business\\Services\\GradeMasterService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementProj\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagementProj\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAUwMEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Business\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\EmployeeService.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Business\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Business\\Services\\EmployeeService.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAUwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Entity\\Employee.cs",
+              "RelativeDocumentMoniker": "Entity\\Employee.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Entity\\Employee.cs",
+              "RelativeToolTip": "Entity\\Employee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAMBgwBIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Data\\REPOSITORY\\DepartmentRepo.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\DepartmentRepo.cs",
+              "RelativeToolTip": "Data\\REPOSITORY\\DepartmentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementProj\\appsettings.json",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagementProj\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-10T05:15:44.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GradeMasterController.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\Controllers\\GradeMasterController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementProj\\Controllers\\GradeMasterController.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\Controllers\\GradeMasterController.cs",
+              "RelativeToolTip": "EmployeeManagementProj\\Controllers\\GradeMasterController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAMBdwHsAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GradeMasterRepo.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\GradeMasterRepo.cs",
+              "RelativeDocumentMoniker": "Data\\REPOSITORY\\GradeMasterRepo.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\GradeMasterRepo.cs",
+              "RelativeToolTip": "Data\\REPOSITORY\\GradeMasterRepo.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAMBgwDYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserMasterRepo.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\UserMasterRepo.cs",
+              "RelativeDocumentMoniker": "Data\\REPOSITORY\\UserMasterRepo.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\UserMasterRepo.cs",
+              "RelativeToolTip": "Data\\REPOSITORY\\UserMasterRepo.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAuwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GradeMaster.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Entity\\GradeMaster.cs",
+              "RelativeDocumentMoniker": "Entity\\GradeMaster.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Entity\\GradeMaster.cs",
+              "RelativeToolTip": "Entity\\GradeMaster.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAMBgwBgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserMaster.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Entity\\UserMaster.cs",
+              "RelativeDocumentMoniker": "Entity\\UserMaster.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Entity\\UserMaster.cs",
+              "RelativeToolTip": "Entity\\UserMaster.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IGradeMasterRepo.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\IGradeMasterRepo.cs",
+              "RelativeDocumentMoniker": "Data\\REPOSITORY\\IGradeMasterRepo.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\IGradeMasterRepo.cs",
+              "RelativeToolTip": "Data\\REPOSITORY\\IGradeMasterRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserMasterController.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\Controllers\\UserMasterController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementProj\\Controllers\\UserMasterController.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\EmployeeManagementProj\\Controllers\\UserMasterController.cs",
+              "RelativeToolTip": "EmployeeManagementProj\\Controllers\\UserMasterController.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAwwBsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Entity\\Department.cs",
+              "RelativeDocumentMoniker": "Entity\\Department.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Entity\\Department.cs",
+              "RelativeToolTip": "Entity\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserMasterRepo.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\IUserMasterRepo.cs",
+              "RelativeDocumentMoniker": "Data\\REPOSITORY\\IUserMasterRepo.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\IUserMasterRepo.cs",
+              "RelativeToolTip": "Data\\REPOSITORY\\IUserMasterRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserMasterService.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Business\\Services\\UserMasterService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\UserMasterService.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Business\\Services\\UserMasterService.cs",
+              "RelativeToolTip": "Business\\Services\\UserMasterService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAApwCkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDepartmentRepo.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\IDepartmentRepo.cs",
+              "RelativeDocumentMoniker": "Data\\REPOSITORY\\IDepartmentRepo.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\REPOSITORY\\IDepartmentRepo.cs",
+              "RelativeToolTip": "Data\\REPOSITORY\\IDepartmentRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EMSDbContext.cs",
+              "DocumentMoniker": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\DataContext\\EMSDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext\\EMSDbContext.cs",
+              "ToolTip": "D:\\Ems_Dipannita\\2\\Final\\EmployeeManagementProj\\Data\\DataContext\\EMSDbContext.cs",
+              "RelativeToolTip": "Data\\DataContext\\EMSDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T05:15:44.979Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

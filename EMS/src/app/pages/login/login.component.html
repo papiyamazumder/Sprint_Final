@@ -1,0 +1,71 @@
+<div
+  class="container d-flex justify-content-center align-items-center min-vh-100"
+>
+  <div class="row border rounded-5 p-3 bg-white shadow box-area">
+    <!-- Left Box -->
+    <div
+      class="col-md-6 rounded-4 d-flex justify-content-center align-items-center flex-column left-box"
+      style="background: #103cbe"
+    >
+      <div class="featured-image mb-3">
+        <img
+          src="../../assets/login.gif"
+          class="img-fluid"
+          style="width: 300px"
+        />
+      </div>
+      <p
+        class="text-white fs-2"
+        style="font-family: 'Courier New', Courier, monospace; font-weight: 600"
+      >
+        Be Verified
+      </p>
+    </div>
+    <!-- Right Box -->
+    <div class="col-md-6 right-box">
+      <div class="row align-items-center">
+        <div class="header-text mb-2">
+          <h3>Employee Management System</h3>
+        </div>
+        <div class="input-group mb-3">
+          <input
+            type="text"
+            class="form-control form-control-lg bg-light fs-6"
+            placeholder="User Id"
+            [(ngModel)]="userId"
+          />
+        </div>
+        <div class="input-group mb-1">
+          <input
+            type="password"
+            class="form-control form-control-lg bg-light fs-6"
+            placeholder="Password"
+            [(ngModel)]="password"
+          />
+        </div>
+        <div class="input-group mb-5 d-flex float-end text-primary">
+          <div class="forgot">
+            <small><a href="#">Forgot Password?</a></small>
+          </div>
+        </div>
+        <div class="input-group mb-3">
+          <button
+            class="btn btn-lg btn-primary w-100 fs-6"
+            (click)="submitFunction('AU')"
+          >
+            Login With Admin
+          </button>
+        </div>
+        <div class="input-group mb-3">
+          <button
+            class="btn btn-lg btn-light w-100 fs-6"
+            (click)="submitFunction('RU')"
+          >
+            Login With User
+          </button>
+        </div>
+      </div>
+    </div>
+       
+  </div>
+</div>

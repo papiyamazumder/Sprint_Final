@@ -1,0 +1,25 @@
+<div class="container">
+    <h2>EDIT GRADES <i class="fa fa-user icon"></i></h2>
+    <form>
+      <fieldset>
+        <div class="input-field">
+          <label>GradeCode </label>
+          <input type="text" class="inputs" [(ngModel)]="gradeData.gradeCode" name="gradeCode" required>
+        </div>
+        <div class="input-field">
+          <label>Description</label>
+          <input type="text" class="inputs" [(ngModel)]="gradeData.description" name="description" required>
+        </div>
+        <div class="input-field">
+          <label>MinSalary</label>
+          <input type="text" class="inputs" [(ngModel)]="gradeData.minSalary" name="minSalary" required>
+        </div>
+        <div class="input-field">
+          <label>MaxSalary</label>
+          <input type="text" class="inputs" name="maxSalary"[(ngModel)]="gradeData.maxSalary" required>
+        </div>       
+        <input type="button" (click) = "update()" value="Update" class="btn btn-warning">
+      </fieldset>
+    </form>
+  </div>
+ 

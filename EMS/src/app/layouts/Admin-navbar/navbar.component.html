@@ -1,0 +1,18 @@
+<nav>
+  <div class="container main-nav flex">
+    <a href="#" class="brand-logo">
+      <img src="./assets/logo.png" alt="Brand-logo" />
+    </a>
+    <div class="nav-links">
+      <ul class="flex">
+        <li><a href="admin/home" class="link-hover">Home</a></li>
+        <li><a routerLink="emp" class="link-hover">Employee</a></li>
+        <li><a routerLink="dept" class="link-hover">Department</a></li>
+        <li><a routerLink="user" class="link-hover">User Master</a></li>
+        <li><a routerLink="grade" class="link-hover">Grade Master</a></li>
+        <li><a routerLink="contact" class="link-hover">Contact-Us</a></li>
+        <li><button (click)="logout()">Logout</button></li>
+      </ul>
+    </div>
+  </div>
+</nav>

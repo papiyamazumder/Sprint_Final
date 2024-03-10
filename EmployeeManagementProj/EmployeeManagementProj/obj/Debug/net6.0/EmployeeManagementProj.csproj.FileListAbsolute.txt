@@ -1,0 +1,241 @@
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\appsettings.Development.json
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\appsettings.json
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.exe
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.deps.json
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.runtimeconfig.json
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.pdb
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Humanizer.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.csproj.AssemblyReference.cache
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.AssemblyInfoInputs.cache
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.AssemblyInfo.cs
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.csproj.CoreCompileInputs.cache
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.MvcApplicationPartsAssemblyInfo.cache
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets.build.json
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets.development.json
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagementProj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagementProj.props
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementProj.props
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementProj.props
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagementProj.styles.css
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.csproj.CopyComplete
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\refint\EmployeeManagementProj.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.pdb
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.genruntimeconfig.cache
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\ref\EmployeeManagementProj.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\CsvHelper.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Business.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Data.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Entity.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Business.pdb
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Entity.pdb
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Data.pdb
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Azure.Core.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\appsettings.Development.json
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\appsettings.json
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.exe
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.deps.json
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.runtimeconfig.json
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.pdb
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Azure.Core.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\CsvHelper.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Humanizer.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Business.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Data.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Entity.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Business.pdb
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Entity.pdb
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Data.pdb
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.csproj.AssemblyReference.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.AssemblyInfoInputs.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.AssemblyInfo.cs
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.csproj.CoreCompileInputs.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.MvcApplicationPartsAssemblyInfo.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets.build.json
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets.development.json
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagementProj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagementProj.props
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementProj.props
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementProj.props
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagementProj.styles.css
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.csproj.CopyComplete
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\refint\EmployeeManagementProj.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.pdb
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.genruntimeconfig.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\ref\EmployeeManagementProj.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\appsettings.Development.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\appsettings.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.exe
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.deps.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.runtimeconfig.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\EmployeeManagementProj.pdb
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Azure.Core.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Azure.Storage.Common.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\CsvHelper.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Humanizer.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Business.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Data.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Entity.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Business.pdb
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Entity.pdb
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\bin\Debug\net6.0\Data.pdb
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.csproj.AssemblyReference.cache
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.AssemblyInfoInputs.cache
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.AssemblyInfo.cs
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.csproj.CoreCompileInputs.cache
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.MvcApplicationPartsAssemblyInfo.cs
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.MvcApplicationPartsAssemblyInfo.cache
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.sourcelink.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeManagementProj.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeManagementProj.props
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeManagementProj.props
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeManagementProj.props
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\scopedcss\bundle\EmployeeManagementProj.styles.css
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\Employee.ED870734.Up2Date
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\refint\EmployeeManagementProj.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.pdb
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\EmployeeManagementProj.genruntimeconfig.cache
+D:\Ems_Dipannita\Final\EmployeeManagementProj\EmployeeManagementProj\obj\Debug\net6.0\ref\EmployeeManagementProj.dll

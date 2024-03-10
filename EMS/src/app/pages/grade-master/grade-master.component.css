@@ -1,0 +1,122 @@
+.my-navbar {
+  background-color:#DEFCF9;
+  overflow: hidden;
+}
+
+.my-navbar input[type="text"] {
+  float:inline-start;
+  padding: 10px;
+  margin: 10px;
+  margin-left: 30rem;
+  border: 1px solid #5652d2;
+  border-radius: 5px;
+  width: fit-content;
+}
+
+
+.my-navbar select {
+  float: left;
+  padding: 10px;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #5652d2;
+  color: white;
+}
+
+
+/* Styles for the button on the right */
+.my-navbar .btn {
+  float: right;
+  display: block;
+  color: white;
+  background-color: #5652d2;
+  border: none;
+  padding: 14px 20px;
+  margin-right: 20px; /* Adding margin to the right */
+  cursor: pointer;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.my-navbar .btn:hover {
+  background-color: #B4D4FF;
+  color: #5652d2;
+}
+
+.container {
+  margin-top: 5rem;
+    width: 100%;
+    text-align: center; /* Center align content within container */
+  }
+ 
+  .table-responsive {
+    max-height: 500px; /* Set a fixed height for vertical scrolling */
+    overflow: auto; /* Enable both horizontal and vertical scrolling */
+    margin-top: 20px;
+  }
+ 
+  .responsive-table {
+    display: inline-block; /* Display as inline-block to center horizontally */
+    border-collapse: collapse;
+  }
+  .col-actions1,.col-actions2  {
+    position: sticky;
+    right: 0;
+    background-color: white;
+}
+.col-actions2 {
+  z-index: 2;
+}
+.col-actions1{
+  z-index: 1;
+}
+
+
+
+.edit-btn,
+.delete-btn {
+    margin: 5px;
+}
+  .table-header th{
+    color: white;
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center; /* Center align content within cells */
+    white-space: nowrap;
+  }
+  .table-row td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center; /* Center align content within cells */
+    white-space: nowrap; /* Prevent line breaks within cells */
+    /* background-color: #EEF5FF; */
+   
+  }
+ 
+  .col {
+    word-wrap: break-word;
+  }
+ 
+  /* Adjust the width of each column as needed */
+  /* .col-1 { width: 7%; }
+  .col-2 { width: 10%; }
+  .col-3 { width: 10%; }
+  .col-4 { width: 10%; }
+  .col-5 { width: 10%; } */
+  /* Add more styles for additional columns as needed */
+ 
+  /* Apply some design */
+  .table-header th {
+    background-color: #5652d2;
+  }
+ 
+  .table-row:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+ 
+  .table-row:hover {
+    background-color: #B4D4FF;
+    cursor: pointer;
+  }
+ 

@@ -1,0 +1,26 @@
+<div class="container">
+    <h2>ADD GRADE <i class="fa fa-user icon"></i></h2>
+    <form>
+      <fieldset>
+          <div class="input-field">
+            <label>GradeCode</label>
+          <input type="text" class="form-control" [(ngModel)]="gradeData.gradeCode" name="gradeCode" required>
+        </div>
+        <div class="input-field">
+          <label>Description</label>
+          <input type="text" class="inputs" [(ngModel)]="gradeData.description" name="description" required>
+        </div>
+        <div class="input-field">
+          <label>MinSalary</label>
+          <input type="text" class="inputs" [(ngModel)]="gradeData.minSalary" name="minSalary" required>
+        </div>
+        <div class="input-field">
+          <label>MaxSalary</label>
+          <input type="text" class="inputs" [(ngModel)]="gradeData.maxSalary"name="maxSalary" required>
+        </div>
+ 
+       <input type="button" (click) = "addGrade()" value="Save" class="btn btn-primary save">
+        <input type="button" value="Reset" class="btn btn-secondary reset">
+      </fieldset>
+    </form>
+  </div>

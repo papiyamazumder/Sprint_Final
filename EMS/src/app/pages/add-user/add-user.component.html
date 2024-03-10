@@ -1,0 +1,27 @@
+<div class="container">
+    <h2>ADD REGULAR USER <i class="fa fa-user icon"></i></h2>
+    <form>
+      <fieldset>
+          <div class="input-field">
+            <label>User ID</label>
+          <input type="text" class="form-control" [(ngModel)]="userData.userID" name="userID" required>
+        </div>
+        <div class="input-field">
+          <label>User Name (Cannot be less than 8 characters)</label>
+          <input type="text" class="inputs" [(ngModel)]="userData.userName" name="userName" required>
+        </div>
+        <div class="input-field">
+          <label>Password</label>
+          <input type="password" class="inputs" [(ngModel)]="userData.userPassword" name="userPassword" required>
+        </div>
+        <div class="input-field">
+            <label class="grade">User Type</label>
+            <select  id="" class="inputs" [(ngModel)]="userData.userType" name="empMaritalStatus">
+              <option value="RU">RU</option>
+            </select>
+        </div>
+       <input type="button" (click) = "addUser()" value="Save" class="btn btn-primary save" placeholder="RU">
+        <input type="button"(click) = "reset()" value="Reset" class="btn btn-secondary reset">
+      </fieldset>
+    </form>
+</div>

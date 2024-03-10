@@ -1,0 +1,35 @@
+<div class="my-navbar">
+    <a class="btn" (click)="goToAddDepartment()" routerLink="add-dept">Add Dept</a>
+  </div>
+   
+  <div class="container">
+      <h2>Department List</h2>
+      <div class="table-responsive">
+      <div class="table-container">
+        <table class="responsive-table">
+          <thead>
+            <tr class="table-header">
+              <th class="col col-1">Dept Id</th>
+              <th class="col col-2">Dept Name</th>
+             
+              <th class="col col-5 col-actions1">Edit</th>
+              <th class="col col-5 col-actions1">Delete</th>
+            </tr>
+          </thead>
+          <tbody *ngFor="let dept of deptlist" >
+            <tr class="table-row">
+              <td class="col">{{dept.deptID}}</td>
+              <td class="col">{{dept.deptName}}</td>
+             
+              <td class="col col-actions1"><button (click)="goToEditDepartment(dept.deptID)"class="btn btn-primary edit-btn"><i class="fa-solid fa-pencil"></i></button></td>
+              <td class="col col-actions2"><button (click) ="delete(dept.deptID)" class="btn btn-danger delete-btn"><i class="fa-solid fa-trash"></i></button>
+            </td>
+            </tr>
+            <!-- Add more rows as needed -->
+          </tbody>
+         
+        </table>
+      </div>
+      </div>
+  </div>
+ 

@@ -1,0 +1,52 @@
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\bin\Debug\net6.0\Business.deps.json
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\bin\Debug\net6.0\Business.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\bin\Debug\net6.0\Business.pdb
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.pdb
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\bin\Debug\net6.0\Data.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\bin\Debug\net6.0\Entity.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\bin\Debug\net6.0\Data.pdb
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\bin\Debug\net6.0\Entity.pdb
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\bin\Debug\net6.0\Business.deps.json
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\bin\Debug\net6.0\Business.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\bin\Debug\net6.0\Business.pdb
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\bin\Debug\net6.0\Data.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\bin\Debug\net6.0\Entity.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\bin\Debug\net6.0\Data.pdb
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\bin\Debug\net6.0\Entity.pdb
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.pdb
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Business\obj\Debug\net6.0\ref\Business.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\bin\Debug\net6.0\Business.deps.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\bin\Debug\net6.0\Business.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\bin\Debug\net6.0\Business.pdb
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\bin\Debug\net6.0\Data.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\bin\Debug\net6.0\Entity.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\bin\Debug\net6.0\Data.pdb
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\bin\Debug\net6.0\Entity.pdb
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.sourcelink.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.csproj.Up2Date
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\obj\Debug\net6.0\Business.pdb
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Business\obj\Debug\net6.0\ref\Business.dll

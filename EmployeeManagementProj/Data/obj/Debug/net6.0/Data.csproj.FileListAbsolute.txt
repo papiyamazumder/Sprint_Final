@@ -1,0 +1,52 @@
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\bin\Debug\net6.0\Data.deps.json
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\bin\Debug\net6.0\Data.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\bin\Debug\net6.0\Data.pdb
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.pdb
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\bin\Debug\net6.0\Entity.dll
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\bin\Debug\net6.0\Entity.pdb
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Cg Projects\Sprint\ProjectWork\Project Work\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\bin\Debug\net6.0\Data.deps.json
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\bin\Debug\net6.0\Data.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\bin\Debug\net6.0\Data.pdb
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\bin\Debug\net6.0\Entity.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\bin\Debug\net6.0\Entity.pdb
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.pdb
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Cg Projects\SprintFrontend\EmployeeManagementProj\Data\obj\Debug\net6.0\ref\Data.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\bin\Debug\net6.0\Data.deps.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\bin\Debug\net6.0\Data.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\bin\Debug\net6.0\Data.pdb
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\bin\Debug\net6.0\Entity.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\bin\Debug\net6.0\Entity.pdb
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.sourcelink.json
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.csproj.Up2Date
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\obj\Debug\net6.0\refint\Data.dll
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.pdb
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+D:\Ems_Dipannita\Final\EmployeeManagementProj\Data\obj\Debug\net6.0\ref\Data.dll

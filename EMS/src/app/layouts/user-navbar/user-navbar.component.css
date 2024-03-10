@@ -1,0 +1,42 @@
+.main-nav {
+  justify-content: space-between;
+}
+
+.brand-logo img {
+  width: 140px;
+}
+
+.nav-links {
+  flex-basis: 700px;
+  overflow: hidden;
+}
+
+.nav-links ul {
+  justify-content: end;
+  font-size: 16px;
+  gap: 25px;
+}
+
+.logout {
+  color: red;
+}
+
+li a:hover {
+  background-color: #02416b;
+  padding: 14px 16px;
+  transition: 0.3s all ease-out;
+}
+
+.nav-links ul li:hover > ul {
+  opacity: 1;
+  visibility: visible;
+}
+
+.link-hover {
+  color: #362fd9;
+  transition: 0.3s all ease-out;
+}
+
+.link-hover:hover {
+  color: white;
+}
